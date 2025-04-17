@@ -17,9 +17,6 @@
 - **Interactive Mode**: Standard shell prompt with real-time command entry.
 
 ## Usage
-
-![image](https://github.com/user-attachments/assets/16a3cc8a-637e-4df5-bd96-8b309f2bc772)
-
 ### Compile
 
     gcc -o dash dash.c
