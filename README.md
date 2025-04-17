@@ -31,6 +31,10 @@ Batch Mode:
 
     ./dash batchfile.txt
 
+## Sample Run 
+
+![image](https://github.com/user-attachments/assets/6f11eb5c-d7c6-4e34-8311-027e4b31826c)
+
 Notes
 1) Only one output file is supported in redirection.
 2) & should not be the first character in a command.
