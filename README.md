@@ -22,5 +22,14 @@
 
 ### Compile
 
-```bash
-gcc -o dash dash.c
+    gcc -o dash dash.c
+
+### Run
+
+Interactive Mode:
+
+    ./dash
+
+Batch Mode:
+
+    ./dash batchfile.txt
