@@ -39,5 +39,5 @@ Notes
 2) & should not be the first character in a command.
 3) Commands are searched within the directories specified by the path command.
 
-Limitations
-  No support for pipes (|), input redirection (<), or background jobs.
+Limitation
+   - No support for pipes (|), input redirection (<), or background jobs.
